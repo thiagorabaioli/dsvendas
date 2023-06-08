@@ -10,10 +10,7 @@ function App() {
     <div className="container">
       <h1 className="text-primary"> Ola mundo!</h1>
       <DataTable/>
-      <DataTable/>
-      <DataTable/>
-      <DataTable/>
-      <DataTable/>
+     
     </div>
     <Footer/>
     </>
